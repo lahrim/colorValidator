@@ -1,9 +1,9 @@
-# colorValidator - module pour Node.js
+# colorValidator - middleware pour Node.js
 colorValidator, verifie si commence par # suivi de 3 ou 6 caractères hexadécimaux
 
 
 ## installation
-Placer le fichier colorValidator.js dans le dossier modules
+Placer le fichier colorValidator.js dans le dossier middlewares
 
 
 ## utilisation
